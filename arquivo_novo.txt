@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 arquivo novo
+=======
+este é um arquivo novo que vamos mudar
+>>>>>>> conflito
