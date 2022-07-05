@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-este arquivo diferente
-=======
-arquivo diferente
->>>>>>> conflito
-=======
-arquivo diferente
->>>>>>> conflito
